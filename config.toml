@@ -1,0 +1,6 @@
+# 라이트/다크 모두 OS 설정을 따르고, 강조색만 초록으로 지정한다.
+[theme.light]
+primaryColor = "#2e7d32"
+
+[theme.dark]
+primaryColor = "#66bb6a"
